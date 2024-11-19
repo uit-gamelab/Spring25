@@ -4,7 +4,7 @@ layout: default
 
 ## Course description
 
-The GameLab seminar will again be given Spring 2024! It is a 10 credit course where you will design, develop, and launch your own game. You will learn and explore a combination of valuable topics such as programming, entrepreneurship, game design and development process.
+The GameLab seminar will again be given Spring 2025! It is a 10 credit course where you will design, develop, and launch your own game. You will learn and explore a combination of valuable topics such as programming, entrepreneurship, game design and development process.
 
 Throughout the course we will have go through, and learn, the complete cycle of game development from idea to launch. The course is focused on launching a functioning end product that marries user experience and technology:
 
@@ -23,12 +23,13 @@ Also check out the list of [games and screenshots](https://site.uit.no/tromsogam
 
 The course will be given as a master's level course. We may consider allowing especially motivated bachelor students to take the course.
 
-Admission requirements, learning goals, exam information and other administrative information is [on the uit websites](https://uit.no/utdanning/emner/emne/822449/inf-3910-8). You can also find the course schedule / information about the rooms used for the lecture and group [on timeplan.uit.no](https://timeplan.uit.no/emne_timeplan.php?sem=24v&module=INF-3910-8-1#week=1-25).
+Admission requirements, learning goals, exam information and other administrative information is [on the uit websites](https://uit.no/utdanning/emner/emne?p_document_id=860102). You can also find the course schedule / information about the rooms used for the lecture and group [on timeplan.uit.no](https://timeplan.uit.no/emne_timeplan.php?sem=25v&module=INF-3910-8-1#week=1-25).
 
 ## Staff and collaborators
-* Lars Ailo Bongo <lars.ailo.bongo@uit.no> (responsible professor).
+* Andre Henriksen <andre.henriksen@uit.no> (responsible teacher).
+* Lars Ailo Bongo .
 * Ernie Roby-Tomic (teaching assistant).
-* Anders Sildnes <anders.sildnes@uit.no> (teaching assistant).
+* TBD (teaching assistant).
 * Ismet Bachtiar (Tvibit).
 * In collaboration with local game development industry.
 
@@ -48,35 +49,35 @@ In addition to being evaluated on the successful completion of the game you will
 
 | Lecture/ seminar / event | Date		   | Lecturer	  | Subject  |
 |--------------------------|-----------|-------------------|---------------------|
-| Kick-off                 | 09.01.24  |                   |                     |
-| Lecture 1                | 09.01.24  | Kim Daniel Arthur | Game development introduction |
-| Lecture 2                | 09.01.24  | Ismet Bachtiar    | Concept development |
-| Lecture 3                | 09.01.24  | Cris-Kevin Bjørndal  | AI & game development | 
-| Lecture 4                | 09.01.24  | Kim Ruben Lockertsen | How to choose game technology |
-| Lecture 5                | 16.01.24  | Ernie Roby-Tomic  | Introduction to Unreal Engine 5 |
-| Lecture 6                | 25.01.24  | Simen Fjellstad   | Game Jam warm-up |
-| Game Jam                 | 26-28.01.24 | Michael David Elliott and  Sebastian Røed Mangseth | Game Jam |
-| Lecture 7                | 08.02.24  | Cris-Kevin Bjørndal | Game assests |
-| Lecture 8                | 27.02.24  | Ernie Roby-Tomic    | Hands-on Unreal Engine 5 |
-| Lecture 9                | 29.02.24  | Ove Kåven           | Programmers perspective on Unreal Engine 5 |
-| Lecture 10               | 21.03.24  | Jonna Häkkilä       | Playful User Experience Design for Wearable Computing |
-| Lecture 11               | 18.04.24  | Anders Lauridsen    | Norwegian game ecosystem and pitching |
-| Lecture 12               | 25.04.24  | Anna Dranovska      | Funding opportunities for students |
-| Lecture 13               | 07.05.24  | Henriette Myrlund   | Juicing |
+| Kick-off                 | TBA       |                   |                     |
+| Lecture 1                | TBA       | Kim Daniel Arthur | Game development introduction |
+| Lecture 2                | TBA       | Ismet Bachtiar    | Concept development |
+| Lecture 3                | TBA       | Cris-Kevin Bjørndal  | AI & game development | 
+| Lecture 4                | TBA       | Kim Ruben Lockertsen | How to choose game technology |
+| Lecture 5                | TBA       | Ernie Roby-Tomic  | Introduction to Unreal Engine 5 |
+| Lecture 6                | TBA       | Simen Fjellstad   | Game Jam warm-up |
+| Game Jam                 | TBA       | Michael David Elliott and  Sebastian Røed Mangseth | Game Jam |
+| Lecture 7                | TBA       | Cris-Kevin Bjørndal | Game assests |
+| Lecture 8                | TBA       | Ernie Roby-Tomic    | Hands-on Unreal Engine 5 |
+| Lecture 9                | TBA       | Ove Kåven           | Programmers perspective on Unreal Engine 5 |
+| Lecture 10               | TBA       | Jonna Häkkilä       | Playful User Experience Design for Wearable Computing |
+| Lecture 11               | TBA       | Anders Lauridsen    | Norwegian game ecosystem and pitching |
+| Lecture 12               | TBA       | Anna Dranovska      | Funding opportunities for students |
+| Lecture 13               | TBA       | Henriette Myrlund   | Juicing |
 
 Project milestones:
 
 | Milestone             | Date     | Description |
 |-----------------------|----------|-------------|
-| 1. High-level concept | 06.02.24 | General overall direction |
-| 2. Design             | 22.02.24 | Game and technology defined |
-| 3. Prototype          | 19.03.24 | Playable game |
-| 4. Alpha              | 23.04.24 | Feature complete | 
-| 5. Beta               | 21.05.24 | Content complete. Submit | 
-| 6. Live               | 31.05.24 | Game launched! |
+| 1. High-level concept | TBA | General overall direction |
+| 2. Design             | TBA | Game and technology defined |
+| 3. Prototype          | TBA | Playable game |
+| 4. Alpha              | TBA | Feature complete | 
+| 5. Beta               | TBA | Content complete. Submit | 
+| 6. Live               | TBA | Game launched! |
 
 Exam dates:
-* 31.05.24: final delivery of project
+* TBA: final delivery of project
 * TBA (planned between 05-08.06.24): oral presentation
 
 ## Readings
