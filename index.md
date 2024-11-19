@@ -16,6 +16,7 @@ Throughout the course we will have go through, and learn, the complete cycle of 
 * **Business**: Launch the game on the target platforms app store with a clear plan how and why the game will make money in the market.  
 
 For information about the first GameLab: [https://site.uit.no/tromsogamelab/](https://site.uit.no/tromsogamelab/)
+
 For information about the second GameLab: [https://uit-gamelab-s24.github.io/](https://uit-gamelab-s24.github.io/)
 
 Also check out the list of [games and screenshots](https://site.uit.no/tromsogamelab/student-projects/) developed in the first round of the GameLab, and [news with pictures](https://site.uit.no/tromsogamelab/category/news/) from the course.
@@ -47,10 +48,10 @@ Technologies to be used are up for the students to decide.
 In addition to being evaluated on the successful completion of the game you will be evaluated on the technical design and implementation within chosen technologies. From code patterns, architecture and implementation to database schema and client-werver communications. The evaluation is done in collaboration between representatives of the local game industry and the faculty itself.
 
 ## Tentative lecture plan and course timeline
-Colloquiums every Tuesdays where you can work with your projects.
-GameJam Friday 24.01 to Sunday 26.01.
-One full day workshop Friday 21.03.
-Some Tuesdays will be used for lectures.
+* Colloquiums every Tuesdays where you can work with your projects.
+* GameJam Friday 24.01 to Sunday 26.01.
+* One full day workshop Friday 21.03.
+* Some Tuesdays will be used for lectures.
 
 <!---
 
