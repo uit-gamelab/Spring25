@@ -16,6 +16,7 @@ Throughout the course we will have go through, and learn, the complete cycle of 
 * **Business**: Launch the game on the target platforms app store with a clear plan how and why the game will make money in the market.  
 
 For information about the first GameLab: [https://site.uit.no/tromsogamelab/](https://site.uit.no/tromsogamelab/)
+For information about the second GameLab: [https://uit-gamelab-s24.github.io/](https://uit-gamelab-s24.github.io/)
 
 Also check out the list of [games and screenshots](https://site.uit.no/tromsogamelab/student-projects/) developed in the first round of the GameLab, and [news with pictures](https://site.uit.no/tromsogamelab/category/news/) from the course.
 
@@ -45,36 +46,35 @@ Technologies to be used are up for the students to decide.
 
 In addition to being evaluated on the successful completion of the game you will be evaluated on the technical design and implementation within chosen technologies. From code patterns, architecture and implementation to database schema and client-werver communications. The evaluation is done in collaboration between representatives of the local game industry and the faculty itself.
 
-## Lecture plan and course timeline
+## Tentative lecture plan and course timeline
+Colloquiums every Tuesdays where you can work with your projects.
+GameJam Friday 24.01 to Sunday 26.01.
+One full day workshop Friday 21.03.
+Some Tuesdays will be used for lectures.
 
-| Lecture/ seminar / event | Date		   | Lecturer	  | Subject  |
+<!---
+
+| Lecture/ seminar / event | Date       | Lecturer	  | Subject  |
 |--------------------------|-----------|-------------------|---------------------|
-| Kick-off                 | TBA       |                   |                     |
-| Lecture 1                | TBA       | Kim Daniel Arthur | Game development introduction |
-| Lecture 2                | TBA       | Ismet Bachtiar    | Concept development |
-| Lecture 3                | TBA       | Cris-Kevin Bjørndal  | AI & game development | 
-| Lecture 4                | TBA       | Kim Ruben Lockertsen | How to choose game technology |
-| Lecture 5                | TBA       | Ernie Roby-Tomic  | Introduction to Unreal Engine 5 |
-| Lecture 6                | TBA       | Simen Fjellstad   | Game Jam warm-up |
-| Game Jam                 | TBA       | Michael David Elliott and  Sebastian Røed Mangseth | Game Jam |
-| Lecture 7                | TBA       | Cris-Kevin Bjørndal | Game assests |
-| Lecture 8                | TBA       | Ernie Roby-Tomic    | Hands-on Unreal Engine 5 |
-| Lecture 9                | TBA       | Ove Kåven           | Programmers perspective on Unreal Engine 5 |
-| Lecture 10               | TBA       | Jonna Häkkilä       | Playful User Experience Design for Wearable Computing |
-| Lecture 11               | TBA       | Anders Lauridsen    | Norwegian game ecosystem and pitching |
-| Lecture 12               | TBA       | Anna Dranovska      | Funding opportunities for students |
-| Lecture 13               | TBA       | Henriette Myrlund   | Juicing |
+| Kick-off                 | Tuesday 14/1      | André             | Kick-off                    |
+| Lecture 1                | Tuesday 14/1      | TBA               | Game development introduction |
+| Lecture 2                | Tuesday 14/1      | Ismet             | Concept development |
+| Lecture 3                | Tuesday 21/1      |                   | Game Jam warm-up |
+| Game Jam                 | 24.01-26.01       | Michael David Elliott and  Sebastian Røed Mangseth | Game Jam |
+| Lecture 4                | Tuesday 28.01     |        | AI & game development | 
+| Lecture 5                | Tuesday 28.01     |        | How to choose game technology |
+| Lecture 6                | Tuesday 04.02     |        | Introduction to Unreal Engine 5 |
+| Lecture 7                | Tuesday 11.02     |        | Game assests |
+| Lecture 8                | Tuesday 25.02     |        | Hands-on Unreal Engine 5 |
+| Lecture 9                | Friday 21.03      |        | Programmers perspective on Unreal Engine 5 |
+| Lecture 10               | Friday 21.03      |        | Norwegian game ecosystem and pitching |
+| Lecture 11               | Friday 21.03      |        | Funding opportunities for students |
+| Lecture 12               | Friday 21.03      |        | Juicing |
+| Lecture 13               | Tuesday 20.05             | TBA       | TBA
 
-Project milestones:
+-->
 
-| Milestone             | Date     | Description |
-|-----------------------|----------|-------------|
-| 1. High-level concept | TBA | General overall direction |
-| 2. Design             | TBA | Game and technology defined |
-| 3. Prototype          | TBA | Playable game |
-| 4. Alpha              | TBA | Feature complete | 
-| 5. Beta               | TBA | Content complete. Submit | 
-| 6. Live               | TBA | Game launched! |
+
 
 Exam dates:
 * TBA: final delivery of project
@@ -92,12 +92,32 @@ Recommended readings are:
 
 Presentation at each milestone is mandatory. The presentations will be graded pass/no-pass.
 
+Project milestones:
+
+| Milestone             | Date (tentative)    | Description |
+|-----------------------|----------|-------------|
+| 1. High-level concept | 04.02 | General overall direction |
+| 2. Design             | 25.02 | Game and technology defined |
+| 3. Prototype          | 18.03 | Playable game |
+| 4. Alpha              | 22.04 | Feature complete | 
+| 5. Beta               | 20.05 | Content complete. Submit | 
+| 6. Live               | 04.06 | Game launched! |
+
 ### Milestone #1 : High-level Concept
-On 13.2/Milestone #1, we want a presentation from each group. It should be around five minutes (give or take). We will also open for questions after each presentation.
+### Milestone #2 : Design
+### Milestone #3 : Prototype
+### Milestone #4 : Alpha
+### Milestone #5 : Beta
+### Milestone #6 : Live and exam
+
+<!--
+On 04.02/Milestone #1, we want a presentation from each group. It should be around five minutes (give or take). We will also open for questions after each presentation.
 
 The presentation topic is "High Concept" and should give an overall introduction to what you want to build, why your game is going to be worth playing and key elements in the design and revenue model.
 
 In our discord-server #lectures channel (https://discord.gg/Jv5mcvuWHz) there is a `lecture-starting-b.pdf` that can serve as your guide for what content to include in your presentation, as well as other examples from previous students. You don't have to include all the suggested content from `lecture-starting-b.pdf`.
+
+-->
 
 ## Deliverables
 
