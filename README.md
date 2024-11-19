@@ -1,2 +1,2 @@
 
-GameLab Spring 2024 website: http://uit-gamelab-s24.github.io/ 
+GameLab Spring 2025 website: http://uit-gamelab.github.io/Spring25
