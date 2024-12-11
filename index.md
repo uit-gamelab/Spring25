@@ -28,8 +28,8 @@ The course will be given as a master's level course. We may consider allowing es
 Admission requirements, learning goals, exam information and other administrative information is [on the uit websites](https://uit.no/utdanning/emner/emne?p_document_id=860102). You can also find the course schedule / information about the rooms used for the lecture and group [on timeplan.uit.no](https://timeplan.uit.no/emne_timeplan.php?sem=25v&module=INF-3910-8-1#week=1-25).
 
 ## Staff and collaborators
-* Andre Henriksen <andre.henriksen@uit.no> (responsible teacher).
-* Lars Ailo Bongo .
+* Andre Henriksen <https://uit.no/ansatte/andre.henriksen> (responsible teacher).
+* Lars Ailo Bongo
 * Ernie Roby-Tomic (teaching assistant).
 * TBD (teaching assistant).
 * Ismet Bachtiar (Tvibit).
@@ -48,10 +48,10 @@ Technologies to be used are up for the students to decide.
 In addition to being evaluated on the successful completion of the game you will be evaluated on the technical design and implementation within chosen technologies. From code patterns, architecture and implementation to database schema and client-werver communications. The evaluation is done in collaboration between representatives of the local game industry and the faculty itself.
 
 ## Tentative lecture plan and course timeline
-* Colloquiums every Tuesdays where you can work with your projects.
+* Colloquiums every Tuesday 12:15-14:00 REALF A055, where you can work with your projects.
 * GameJam Friday 24.01 to Sunday 26.01.
-* One full day workshop Friday 21.03.
-* Some Tuesdays will be used for lectures.
+* Full day workshop Friday 21.03.
+* Some Thursdays will be used for milestone presentations.
 
 <!---
 
@@ -91,18 +91,18 @@ Recommended readings are:
 
 ## Mandatory assignments
 
-Presentation at each milestone is mandatory. The presentations will be graded pass/no-pass.
+Presentation at each milestone is **mandatory**. The presentations will be graded pass/no-pass.
 
 Project milestones:
 
-| Milestone             | Date (tentative)    | Description |
-|-----------------------|----------|-------------|
-| 1. High-level concept | 04.02 | General overall direction |
-| 2. Design             | 25.02 | Game and technology defined |
-| 3. Prototype          | 18.03 | Playable game |
-| 4. Alpha              | 22.04 | Feature complete | 
-| 5. Beta               | 20.05 | Content complete. Submit | 
-| 6. Live               | 04.06 | Game launched! |
+| Milestone             | Deadline (submit)   | Presentation | Description |
+|-----------------------|----------|----------|-------------|
+| 1. High-level concept | Tuesday 04.02 | Thursday 13.02 | General overall direction |
+| 2. Design             | Tuesday 25.02 | Thursday 27.02 | Game and technology defined |
+| 3. Prototype          | Tuesday 18.03 | Thursday 20.03 | Playable game |
+| 4. Alpha              | Tuesday 22.04 | Thursday 24.04 | Feature complete | 
+| 5. Beta               | Tuesday 20.05 | Thursday 22.05 | Content complete. Submit | 
+| 6. Live               | Wednesday 04.06 | TBA   | Game launched! |
 
 ### Milestone #1 : High-level Concept
 ### Milestone #2 : Design
