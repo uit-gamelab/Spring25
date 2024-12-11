@@ -65,7 +65,8 @@ In addition to being evaluated on the successful completion of the game you will
 | Lecture 4                | Tuesday 28.01     |        | AI & game development | 
 | Lecture 5                | Tuesday 28.01     |        | How to choose game technology |
 | Lecture 6                | Tuesday 04.02     |        | Introduction to Unreal Engine 5 |
-| Lecture 7                | Tuesday 11.02     |        | Game assests |
+| No colloquiums           | Tuesday 11.02     |        | Due to TEKDagen
+| Lecture 7                | TBA               |        | Game assests |
 | Lecture 8                | Tuesday 25.02     |        | Hands-on Unreal Engine 5 |
 | Lecture 9                | Friday 21.03      |        | Programmers perspective on Unreal Engine 5 |
 | Lecture 10               | Friday 21.03      |        | Norwegian game ecosystem and pitching |
