@@ -49,6 +49,7 @@ In addition to being evaluated on the successful completion of the game you will
 
 ## Tentative lecture plan and course timeline
 * Colloquiums every Tuesday 12:15-14:00 REALF A055, where you can work with your projects.
+* Colloquium times will also be used to give shorter lectures
 * GameJam Friday 24.01 to Sunday 26.01.
 * Full day workshop Friday 21.03.
 * Some Thursdays will be used for milestone presentations.
@@ -76,6 +77,26 @@ In addition to being evaluated on the successful completion of the game you will
 
 -->
 
+**NB**: All lecture titles are tentative 
+
+| Lecture/ seminar / event | Date       | Lecturer	  | Subject  |
+|--------------------------|-----------|-------------------|---------------------|
+| Kick-off                 | Tuesday 14/1      | André              | Kick-off                    |
+| Lecture 1                | Tuesday 14/1      |                    | Game development introduction |
+| Lecture 2                | Tuesday 14/1      | Ismet              | Concept development |
+| Lecture 3                | Tuesday 21/1      | Ernie              | Game Jam warm-up |
+| Game Jam                 | 24.01-26.01       |     | GameJam
+| Lecture 4                | Tuesday 28.01     |        | AI & game development | 
+| Lecture 5                | Tuesday 28.01     |        | How to choose game technology |
+| Lecture 6                | Tuesday 04.02     |        | Introduction to Unreal Engine 5 |
+| No colloquiums           | Tuesday 11.02     |        | TEK-Dagen |
+| Lecture 7                | TBA               |        | Game assests |
+| Lecture 8                | Tuesday 25.02     |        | Hands-on Unreal Engine 5 |
+| Lecture 9                | Friday 21.03      |        | Programmers perspective on Unreal Engine 5|
+| Lecture 10               | Friday 21.03      |        | Norwegian game ecosystem and pitching |
+| Lecture 11               | Friday 21.03      |        | Funding opportunities for students  |
+| Lecture 12               | Friday 21.03      |        | Juicing |
+| Lecture 13               | Tuesday 20.05             |       | 
 
 
 Exam dates:
