@@ -118,6 +118,7 @@ Presentation at each milestone is **mandatory**. The presentations will be grade
 **Assignment 1:**
 
 Submit and present project milestones:
+
 | Milestone             | Deadline (submit)   | Presentation | Description |
 |-----------------------|----------|----------|-------------|
 | 1. High-level concept | Tuesday 04.02 | Thursday 13.02 | General overall direction |
