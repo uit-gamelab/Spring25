@@ -115,8 +115,9 @@ Recommended readings are:
 
 Presentation at each milestone is **mandatory**. The presentations will be graded pass/no-pass.
 
-Project milestones:
+**Assignment 1:**
 
+Submit and present project milestones:
 | Milestone             | Deadline (submit)   | Presentation | Description |
 |-----------------------|----------|----------|-------------|
 | 1. High-level concept | Tuesday 04.02 | Thursday 13.02 | General overall direction |
@@ -126,12 +127,11 @@ Project milestones:
 | 5. Beta               | Tuesday 20.05 | Thursday 22.05 | Content complete. Submit | 
 | 6. Live               | Wednesday 04.06 | TBA   | Game launched! |
 
-### Milestone #1 : High-level Concept
-### Milestone #2 : Design
-### Milestone #3 : Prototype
-### Milestone #4 : Alpha
-### Milestone #5 : Beta
-### Milestone #6 : Live and exam
+**Assignment 2:**
+Write a reflection note about the course
+
+**Assignment 3: (only for PhD students)**
+Give lecture on a chosen relevant topic to the course students
 
 <!--
 On 04.02/Milestone #1, we want a presentation from each group. It should be around five minutes (give or take). We will also open for questions after each presentation.
@@ -142,7 +142,7 @@ In our discord-server #lectures channel (https://discord.gg/Jv5mcvuWHz) there is
 
 -->
 
-## Deliverables
+## Deliverables / Exam
 
 You will submit one **final report** that should be organized according to the milestones presented at the kick-off:
 1.	High Concept presents the overall direction of the game. You can include the high concept you presented in February as this part of your report. 
@@ -164,4 +164,5 @@ The presentation/demo should give the audience enough information to be able to 
 
 ## Grading
 
-This main aim of the course is develop and launch the best game possible in the given time. The grade represents our overall impression of the game and the game development including the quality and complexity of the implementation. The game, report, and code will contribute 80% of the grade, and the final presentation/demo will contribute to 20% of the final grade. 
+This main aim of the course is develop and launch the best game possible in the given time. The grade represents our overall impression of the game and the game development including the quality and complexity of the implementation. 
+The game, report, and code will contribute 80% of the grade, and the final presentation/demo will contribute to 20% of the final grade. 
