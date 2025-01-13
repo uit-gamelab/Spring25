@@ -62,7 +62,7 @@ In addition to being evaluated on the successful completion of the game you will
 | Lecture 1                | Tuesday 14/1 12:15	| MH1 Aud 3     	| Kim-Daniel & Ismet 	| Game development introduction & Concept development|
 | Lecture 2                | Tuesday 14/1 13:15	| MH1 Aud 3     	| Ellen Landefilm    	| Immersive Storytelling |
 | Lecture 3                | Tuesday 21/1 12:15	| REALF A055    	| Henriette             | Game Jam warm-up |
-| Game Jam                 | 24.01-26.01 		| REALF A010/A036/B203| 					| Michael David Elliott and  Sebastian Røed Mangseth | Game Jam |
+| Game Jam                 | 24.01-26.01 		| REALF A010/A036/B203| Michael David Elliott and  Sebastian Røed Mangseth | Game Jam |
 | Lecture 4                | Tuesday 28.01 12:15| REALF A055    	| Cris Kevin        	| AI & game development | 
 | Lecture 5                | Tuesday 28.01 12:15| REALF A055    	| Kim Ruben      		| How to choose game technology |
 | Lecture 6                | Tuesday 04.02 12:15| REALF A055    	| Ernie & Kim Ruben 	| Introduction to Unreal Engine 5 |
