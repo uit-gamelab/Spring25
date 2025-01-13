@@ -54,30 +54,30 @@ In addition to being evaluated on the successful completion of the game you will
 * Full day workshop Friday 21.03.
 * Some Thursdays will be used for milestone presentations.
 
-<!---
-
-| Lecture/ seminar / event | Date       | Lecturer	  | Subject  |
-|--------------------------|-----------|-------------------|---------------------|
-| Kick-off                 | Tuesday 14/1      | André             | Kick-off                    |
-| Lecture 1                | Tuesday 14/1      | TBA               | Game development introduction |
-| Lecture 2                | Tuesday 14/1      | Ismet             | Concept development |
-| Lecture 3                | Tuesday 21/1      |                   | Game Jam warm-up |
-| Game Jam                 | 24.01-26.01       | Michael David Elliott and  Sebastian Røed Mangseth | Game Jam |
-| Lecture 4                | Tuesday 28.01     |        | AI & game development | 
-| Lecture 5                | Tuesday 28.01     |        | How to choose game technology |
-| Lecture 6                | Tuesday 04.02     |        | Introduction to Unreal Engine 5 |
-| No colloquiums           | Tuesday 11.02     |        | Due to TEKDagen
-| Lecture 7                | TBA               |        | Game assests |
-| Lecture 8                | Tuesday 25.02     |        | Hands-on Unreal Engine 5 |
-| Lecture 9                | Friday 21.03      |        | Programmers perspective on Unreal Engine 5 |
-| Lecture 10               | Friday 21.03      |        | Norwegian game ecosystem and pitching |
-| Lecture 11               | Friday 21.03      |        | Funding opportunities for students |
-| Lecture 12               | Friday 21.03      |        | Juicing |
-| Lecture 13               | Tuesday 20.05             | TBA       | TBA
-
--->
-
 **NB**: All lecture titles are tentative 
+
+| Lecture/ seminar / event | Date      			| Location 			| Lecturer	  			| Subject  					 |
+|--------------------------|-------------------	|-------------------|-----------------------|----------------------------|
+| Kick-off                 | Tuesday 14/1 12:15	| MH1 Aud 3     	| André             	| Kick-off                   |
+| Lecture 1                | Tuesday 14/1 12:15	| MH1 Aud 3     	| Kim-Daniel & Ismet 	| Game development introduction & Concept development|
+| Lecture 2                | Tuesday 14/1 13:15	| MH1 Aud 3     	| Ellen Landefilm    	| Immersive Storytelling |
+| Lecture 3                | Tuesday 21/1 12:15	| REALF A055    	| Henriette             | Game Jam warm-up |
+| Game Jam                 | 24.01-26.01 		| REALF A010/A036/B203| 					| Michael David Elliott and  Sebastian Røed Mangseth | Game Jam |
+| Lecture 4                | Tuesday 28.01 12:15| REALF A055    	| Cris Kevin        	| AI & game development | 
+| Lecture 5                | Tuesday 28.01 12:15| REALF A055    	| Kim Ruben      		| How to choose game technology |
+| Lecture 6                | Tuesday 04.02 12:15| REALF A055    	| Ernie & Kim Ruben 	| Introduction to Unreal Engine 5 |
+| No colloquiums           | Tuesday 11.02		|     				|        				| TEKDagen |
+| Lecture 7                | Tuesday 18.02      | REALF A055   		| Kim Ruben				| Game assests |
+| Lecture 8                | Tuesday 25.02		| REALF A055    	| Ernie & Kim Ruben     | Hands-on Unreal Engine 5 |
+| Lecture 9                | Friday 21.03 		|     				| TBA        			| TBA |
+| Lecture 10               | Friday 21.03 		|     				| Anders Lauridsen      | Norwegian game ecosystem and pitching |
+| Lecture 11               | Friday 21.03 		|     				| Anna       			| Funding opportunities for students |
+| Lecture 12               | Friday 21.03 		|     				|        				| Juicing |
+| Lecture 13               | Tuesday 20.05		|REALF A055     	| TBA       			| TBA |
+
+
+<!--
+
 
 | Lecture/ seminar / event | Date       | Lecturer	  | Subject  |
 |--------------------------|-----------|-------------------|---------------------|
@@ -97,7 +97,7 @@ In addition to being evaluated on the successful completion of the game you will
 | Lecture 11               | Friday 21.03      |        | Funding opportunities for students  |
 | Lecture 12               | Friday 21.03      |        | Juicing |
 | Lecture 13               | Tuesday 20.05             |       | 
-
+-->
 
 Exam dates:
 * TBA: final delivery of project
@@ -119,14 +119,14 @@ Presentation at each milestone is **mandatory**. The presentations will be grade
 
 Submit and present project milestones:
 
-| Milestone             | Deadline (submit)   | Presentation | Description |
-|-----------------------|----------|----------|-------------|
-| 1. High-level concept | Tuesday 04.02 | Thursday 13.02 | General overall direction |
-| 2. Design             | Tuesday 25.02 | Thursday 27.02 | Game and technology defined |
-| 3. Prototype          | Tuesday 18.03 | Thursday 20.03 | Playable game |
-| 4. Alpha              | Tuesday 22.04 | Thursday 24.04 | Feature complete | 
-| 5. Beta               | Tuesday 20.05 | Thursday 22.05 | Content complete. Submit | 
-| 6. Live               | Wednesday 04.06 | TBA   | Game launched! |
+| Milestone             | Deadline (submit)   	| Presentation | Description |
+|-----------------------|-----------------------|--------------|-------------|
+| 1. High-level concept | Tuesday 04.02 		| Thursday 13.02, TEO-H6| General overall direction |
+| 2. Design             | Tuesday 25.02 		| Thursday 27.02, TEO-H6 | Game and technology defined |
+| 3. Prototype          | Tuesday 18.03 		| Thursday 20.03, TEO-H6 | Playable game |
+| 4. Alpha              | Tuesday 22.04 		| Thursday 24.04, TEO-H6 | Feature complete | 
+| 5. Beta               | Tuesday 20.05		 	| Thursday 22.05, TEO-H6 | Content complete. Submit | 
+| 6. Live               | Wednesday 04.06 		| TBA   | Game launched! |
 
 **Assignment 2:**
 Write a reflection note about the course
