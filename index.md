@@ -30,8 +30,8 @@ Admission requirements, learning goals, exam information and other administrativ
 ## Staff and collaborators
 * Andre Henriksen <https://uit.no/ansatte/andre.henriksen> (responsible teacher).
 * Lars Ailo Bongo
-* Ernie Roby-Tomic (teaching assistant).
-* TBD (teaching assistant).
+* Ernie Roby-Tomic (Lecturer).
+* Johan-Niillas Ludviksen Jernsletten (teaching assistant).
 * Ismet Bachtiar (Tvibit).
 * In collaboration with local game development industry.
 
@@ -72,31 +72,16 @@ In addition to being evaluated on the successful completion of the game you will
 | Lecture 9                | Friday 21.03 		|     				| TBA        			| TBA |
 | Lecture 10               | Friday 21.03 		|     				| Anders Lauridsen      | Norwegian game ecosystem and pitching |
 | Lecture 11               | Friday 21.03 		|     				| Anna       			| Funding opportunities for students |
-| Lecture 12               | Friday 21.03 		|     				|        				| Juicing |
+| Lecture 12               | Friday 21.03 		|     				| TBA      				| Juicing |
 | Lecture 13               | Tuesday 20.05		|REALF A055     	| TBA       			| TBA |
 
 
 <!--
 
-
 | Lecture/ seminar / event | Date       | Lecturer	  | Subject  |
 |--------------------------|-----------|-------------------|---------------------|
-| Kick-off                 | Tuesday 14/1      | André              | Kick-off                    |
-| Lecture 1                | Tuesday 14/1      |                    | Game development introduction |
-| Lecture 2                | Tuesday 14/1      | Ismet              | Concept development |
-| Lecture 3                | Tuesday 21/1      | Ernie              | Game Jam warm-up |
-| Game Jam                 | 24.01-26.01       |     | GameJam
-| Lecture 4                | Tuesday 28.01     |        | AI & game development | 
-| Lecture 5                | Tuesday 28.01     |        | How to choose game technology |
-| Lecture 6                | Tuesday 04.02     |        | Introduction to Unreal Engine 5 |
-| No colloquiums           | Tuesday 11.02     |        | TEK-Dagen |
-| Lecture 7                | TBA               |        | Game assests |
-| Lecture 8                | Tuesday 25.02     |        | Hands-on Unreal Engine 5 |
 | Lecture 9                | Friday 21.03      |        | Programmers perspective on Unreal Engine 5|
-| Lecture 10               | Friday 21.03      |        | Norwegian game ecosystem and pitching |
-| Lecture 11               | Friday 21.03      |        | Funding opportunities for students  |
-| Lecture 12               | Friday 21.03      |        | Juicing |
-| Lecture 13               | Tuesday 20.05             |       | 
+
 -->
 
 Exam dates:
@@ -121,8 +106,8 @@ Submit and present project milestones:
 
 | Milestone             | Deadline (submit)   	| Presentation | Description |
 |-----------------------|-----------------------|--------------|-------------|
-| 1. High-level concept | Tuesday 04.02 		| Thursday 13.02, TEO-H6| General overall direction |
-| 2. Design             | Tuesday 25.02 		| Thursday 27.02, TEO-H6 | Game and technology defined |
+| 1. High-level concept | Tuesday 04.02 		| Thursday 13.02, TEO-H6| General overall direction. 12-page report. |
+| 2. Design             | Tuesday 25.02 		| Thursday 27.02, TEO-H6 | Game and technology defined.  |
 | 3. Prototype          | Tuesday 18.03 		| Thursday 20.03, TEO-H6 | Playable game |
 | 4. Alpha              | Tuesday 22.04 		| Thursday 24.04, TEO-H6 | Feature complete | 
 | 5. Beta               | Tuesday 20.05		 	| Thursday 22.05, TEO-H6 | Content complete. Submit | 
