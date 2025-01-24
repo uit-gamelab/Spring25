@@ -66,14 +66,15 @@ In addition to being evaluated on the successful completion of the game you will
 | Lecture 4                | Tuesday 28.01 12:15| REALF A055    	| Cris Kevin        	| AI & game development | 
 | Lecture 5                | Tuesday 28.01 12:15| REALF A055    	| Kim Ruben      		| How to choose game technology |
 | Lecture 6                | Tuesday 04.02 12:15| REALF A055    	| Ernie & Kim Ruben 	| Introduction to Unreal Engine 5 |
-| No colloquiums           | Tuesday 11.02		|     				|        				| TEKDagen |
-| Lecture 7                | Tuesday 18.02      | REALF A055   		| Kim Ruben				| Game assests |
+| No colloquiums           | Tuesday 11.02		|     				|        				| TEKDagen 			|
+| Lecture 7                | Tuesday 18.02      | REALF A055   		| Kim Ruben				| Game assests 		|
 | Lecture 8                | Tuesday 25.02		| REALF A055    	| Ernie & Kim Ruben     | Hands-on Unreal Engine 5 |
-| Lecture 9                | Friday 21.03 		|     				| TBA        			| TBA |
-| Lecture 10               | Friday 21.03 		|     				| Anders Lauridsen      | Norwegian game ecosystem and pitching |
-| Lecture 11               | Friday 21.03 		|     				| Anna       			| Funding opportunities for students |
-| Lecture 12               | Friday 21.03 		|     				| TBA      				| Juicing |
-| Lecture 13               | Tuesday 20.05		|REALF A055     	| TBA       			| TBA |
+| Lecture 9				   | Tuesday 04.03		| REALF A055/Teams	| Alecander Espeseth	| Adaptiv musikk i spill |
+| Lecture 10               | Friday 21.03 		| Teknobygget, 2.019| TBA        			| TBA |
+| Lecture 11               | Friday 21.03 		| Teknobygget, 2.019| Anders Lauridsen      | Norwegian game ecosystem and pitching |
+| Lecture 12               | Friday 21.03 		| Teknobygget, 2.019| Anna Dranovska		| Funding opportunities for students |
+| Lecture 13               | Friday 21.03 		| Teknobygget, 2.019| TBA      				| Juicing |
+| Lecture 14               | Tuesday 20.05		|REALF A055     	| TBA       			| TBA |
 
 
 <!--
