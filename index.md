@@ -23,7 +23,7 @@ Also check out the list of [games and screenshots](https://site.uit.no/tromsogam
 
 ## Administrative information
 
-The course will be given as a master's level course. We may consider allowing especially motivated bachelor students to take the course.
+The course will be given as a master's level course. <!--We may consider allowing especially motivated bachelor students to take the course.-->
 
 Admission requirements, learning goals, exam information and other administrative information is [on the uit websites](https://uit.no/utdanning/emner/emne?p_document_id=860102). You can also find the course schedule / information about the rooms used for the lecture and group [on timeplan.uit.no](https://timeplan.uit.no/emne_timeplan.php?sem=25v&module=INF-3910-8-1#week=1-25).
 
