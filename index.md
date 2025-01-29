@@ -23,16 +23,16 @@ Also check out the list of [games and screenshots](https://site.uit.no/tromsogam
 
 ## Administrative information
 
-The course will be given as a master's level course. <!--We may consider allowing especially motivated bachelor students to take the course.-->
+The course will be given as a master's level course. 
 
 Admission requirements, learning goals, exam information and other administrative information is [on the uit websites](https://uit.no/utdanning/emner/emne?p_document_id=860102). You can also find the course schedule / information about the rooms used for the lecture and group [on timeplan.uit.no](https://timeplan.uit.no/emne_timeplan.php?sem=25v&module=INF-3910-8-1#week=1-25).
 
 ## Staff and collaborators
 * Andre Henriksen <https://uit.no/ansatte/andre.henriksen> (responsible teacher).
-* Lars Ailo Bongo
 * Ernie Roby-Tomic (Lecturer).
 * Johan-Niillas Ludviksen Jernsletten (teaching assistant).
 * Ismet Bachtiar (Tvibit).
+* Lars Ailo Bongo (UiT)
 * In collaboration with local game development industry.
 
 <!---
@@ -65,7 +65,7 @@ In addition to being evaluated on the successful completion of the game you will
 | Game Jam                 | 24.01-26.01 		| REALF A010/A036/B203| Michael David Elliott and  Sebastian Røed Mangseth | Game Jam |
 | Lecture 4                | Tuesday 28.01 12:15| REALF A055    	| Cris Kevin        	| AI & game development | 
 | Lecture 5                | Tuesday 28.01 12:15| REALF A055    	| Kim Ruben      		| How to choose game technology |
-| Lecture 6                | Tuesday 04.02 12:15| REALF A055    	| Ernie & Kim Ruben 	| Introduction to Unreal Engine 5 |
+| Lecture 6                | Tuesday 04.02 12:15| REALF A055    	| Ernie & Kim Ruben 	| **Form teams** & Introduction to Unreal Engine 5 |
 | No colloquiums           | Tuesday 11.02		|     				|        				| TEKDagen 			|
 | Lecture 7                | Tuesday 18.02      | REALF A055   		| Kim Ruben				| Game assests 		|
 | Lecture 8                | Tuesday 25.02		| REALF A055    	| Ernie & Kim Ruben     | Hands-on Unreal Engine 5 |
@@ -107,7 +107,7 @@ Submit and present project milestones:
 
 | Milestone             | Deadline (submit)   	| Presentation | Description |
 |-----------------------|-----------------------|--------------|-------------|
-| 1. High-level concept | Tuesday 04.02 		| Thursday 13.02, TEO-H6| General overall direction. 12-page report. |
+| 1. High-level concept | Tuesday 11.02 		| Thursday 13.02, TEO-H6| General overall direction. Approx. 2-page report. |
 | 2. Design             | Tuesday 25.02 		| Thursday 27.02, TEO-H6 | Game and technology defined.  |
 | 3. Prototype          | Tuesday 18.03 		| Thursday 20.03, TEO-H6 | Playable game |
 | 4. Alpha              | Tuesday 22.04 		| Thursday 24.04, TEO-H6 | Feature complete | 
