@@ -69,12 +69,11 @@ In addition to being evaluated on the successful completion of the game you will
 | No colloquiums           | Tuesday 11.02		|     				|        				| TEKDagen 			|
 | Lecture 7                | Tuesday 18.02      | REALF A055   		| Kim Ruben				| Game assests 		|
 | Lecture 8                | Tuesday 25.02		| REALF A055    	| Ernie & Kim Ruben     | Hands-on Unreal Engine 5 |
-| Lecture 9				   | Tuesday 04.03		| REALF A055/Teams	| Alecander Espeseth	| Adaptiv musikk i spill |
-| Lecture 10               | Friday 21.03 		| Teknobygget, 2.019| TBA        			| TBA |
-| Lecture 11               | Friday 21.03 		| Teknobygget, 2.019| Anders Lauridsen      | Norwegian game ecosystem and pitching |
-| Lecture 12               | Friday 21.03 		| Teknobygget, 2.019| Anna Dranovska		| Funding opportunities for students |
-| Lecture 13               | Friday 21.03 		| Teknobygget, 2.019| TBA      				| Juicing |
-| Lecture 14               | Tuesday 20.05		|REALF A055     	| TBA       			| TBA |
+| Lecture 9				         | Tuesday 04.03		| REALF A055/Teams	| Alecander Espeseth	| Adaptiv musikk i spill |
+| Lecture 10               | Friday 21.03 		| Teknobygget, 2.019| Anders Lauridsen		| From Pitch to Publish: The Road to Launching an Indie Game |
+| Lecture 11               | Friday 21.03 		| Teknobygget, 2.019| Anders Lauridsen    | Product Development in an Indie Game Context |
+| Lecture 11               | Friday 21.03 		| Teknobygget, 2.020| Anders Lauridsen    | Speed pitching |
+| Lecture 12 - xx          | TBA		|  TBA     	| TBA       			| TBA |
 
 
 <!--
@@ -82,6 +81,8 @@ In addition to being evaluated on the successful completion of the game you will
 | Lecture/ seminar / event | Date       | Lecturer	  | Subject  |
 |--------------------------|-----------|-------------------|---------------------|
 | Lecture 9                | Friday 21.03      |        | Programmers perspective on Unreal Engine 5|
+| Lecture 12               | Friday 21.03 		| Teknobygget, 2.019| Anna Dranovska		| Funding opportunities for students |
+| Lecture 12 - xx          | Tuesday 20.05		| REALF A055     	| TBA       			| TBA |
 
 -->
 
@@ -109,7 +110,7 @@ Submit and present project milestones:
 |-----------------------|-----------------------|--------------|-------------|
 | 1. High-level concept | Tuesday 11.02 		| Thursday 13.02, TEO-H6| General overall direction. Approx. 2-page report. |
 | 2. Design             | Tuesday 25.02 		| Thursday 27.02, TEO-H6 | Game and technology defined.  |
-| 3. Prototype          | Tuesday 18.03 		| Thursday 20.03, TEO-H6 | Playable game |
+| 3. Prototype          | Tuesday 18.03 		| Thursday 20.03, ILP-1.007 | Playable game |
 | 4. Alpha              | Tuesday 22.04 		| Thursday 24.04, TEO-H6 | Feature complete | 
 | 5. Beta               | Tuesday 20.05		 	| Thursday 22.05, TEO-H6 | Content complete. Submit | 
 | 6. Live               | Wednesday 04.06 		| TBA   | Game launched! |
