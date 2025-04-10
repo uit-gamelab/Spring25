@@ -73,7 +73,7 @@ In addition to being evaluated on the successful completion of the game you will
 | Lecture 10               | Friday 21.03 		| Teknobygget, 2.019| Anders Lauridsen		| From Pitch to Publish: The Road to Launching an Indie Game |
 | Lecture 11               | Friday 21.03 		| Teknobygget, 2.019| Anders Lauridsen    | Product Development in an Indie Game Context |
 | Lecture 11               | Friday 21.03 		| Teknobygget, 2.020| Anders Lauridsen    | Speed pitching |
-| Lecture 12 - xx          | TBA		|  TBA     	| TBA       			| TBA |
+| Lecture 12               | Tuesday 29.04		|  REALF A055/Teams | Anna Dranovska   		| Funding opportunities for students |
 
 
 <!--
@@ -81,7 +81,6 @@ In addition to being evaluated on the successful completion of the game you will
 | Lecture/ seminar / event | Date       | Lecturer	  | Subject  |
 |--------------------------|-----------|-------------------|---------------------|
 | Lecture 9                | Friday 21.03      |        | Programmers perspective on Unreal Engine 5|
-| Lecture 12               | Friday 21.03 		| Teknobygget, 2.019| Anna Dranovska		| Funding opportunities for students |
 | Lecture 12 - xx          | Tuesday 20.05		| REALF A055     	| TBA       			| TBA |
 
 -->
