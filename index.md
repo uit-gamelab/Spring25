@@ -110,9 +110,9 @@ Submit and present project milestones:
 | 1. High-level concept | Tuesday 11.02 		| Thursday 13.02, TEO-H6| General overall direction. Approx. 2-page report. |
 | 2. Design             | Tuesday 25.02 		| Thursday 27.02, TEO-H6 | Game and technology defined.  |
 | 3. Prototype          | Tuesday 18.03 		| Thursday 20.03, ILP-1.007 | Playable game |
-| 4. Alpha              | Tuesday 22.04 		| Thursday 24.04, TEO-H6 | Feature complete | 
+| 4. Alpha              | Tuesday 22.04 		| Thursday 24.04, Location TBA | Feature complete | 
 | 5. Beta               | Tuesday 20.05		 	| Thursday 22.05, TEO-H6 | Content complete. Submit | 
-| 6. Live               | Wednesday 04.06 		| TBA   | Game launched! |
+| 6. Live               | Wednesday 04.06 	| TBA   | Game launched! |
 
 **Assignment 2:**
 Write a reflection note about the course
