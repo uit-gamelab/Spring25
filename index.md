@@ -66,8 +66,8 @@ In addition to being evaluated on the successful completion of the game you will
 | Lecture 4                | Tuesday 28.01 12:15| REALF A055    	| Cris Kevin        	| AI & game development | 
 | Lecture 5                | Tuesday 28.01 12:15| REALF A055    	| Kim Ruben      		| How to choose game technology |
 | Lecture 6                | Tuesday 04.02 12:15| REALF A055    	| Ernie & Kim Ruben 	| **Form teams** & Introduction to Unreal Engine 5 |
-| No colloquiums           | Tuesday 11.02		|     				|        				| TEKDagen 			|
-| Lecture 7                | Tuesday 18.02      | REALF A055   		| Kim Ruben				| Game assests 		|
+| No colloquiums           | Tuesday 11.02		|     				      |        				| TEKDagen 			|
+| Lecture 7                | Tuesday 18.02    | REALF A055   		| Kim Ruben				| Game assests 		|
 | Lecture 8                | Tuesday 25.02		| REALF A055    	| Ernie & Kim Ruben     | Hands-on Unreal Engine 5 |
 | Lecture 9				         | Tuesday 04.03		| REALF A055/Teams	| Alecander Espeseth	| Adaptiv musikk i spill |
 | Lecture 10               | Friday 21.03 		| Teknobygget, 2.019| Anders Lauridsen		| From Pitch to Publish: The Road to Launching an Indie Game |
@@ -110,8 +110,8 @@ Submit and present project milestones:
 | 1. High-level concept | Tuesday 11.02 		| Thursday 13.02, TEO-H6| General overall direction. Approx. 2-page report. |
 | 2. Design             | Tuesday 25.02 		| Thursday 27.02, TEO-H6 | Game and technology defined.  |
 | 3. Prototype          | Tuesday 18.03 		| Thursday 20.03, ILP-1.007 | Playable game |
-| 4. Alpha              | Tuesday 22.04 		| Thursday 24.04, Location TBA | Feature complete | 
-| 5. Beta               | Tuesday 20.05		 	| Thursday 22.05, TEO-H6 | Content complete. Submit | 
+| 4. Alpha              | Tuesday 23.04 		| Thursday 24.04, ILP-1.043 | Feature complete | 
+| 5. Beta               | Tuesday 20.05		 	| Thursday 22.05, TBA | Content complete. Submit | 
 | 6. Live               | Wednesday 04.06 	| TBA   | Game launched! |
 
 **Assignment 2:**
