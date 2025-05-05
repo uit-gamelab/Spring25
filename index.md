@@ -112,7 +112,7 @@ Submit and present project milestones:
 | 3. Prototype          | Tuesday 18.03 		| Thursday 20.03, ILP-1.007 | Playable game |
 | 4. Alpha              | Tuesday 23.04 		| Thursday 24.04, ILP-1.043 | Feature complete | 
 | 5. Beta               | Tuesday 20.05		 	| Thursday 22.05, TBA | Content complete. Submit | 
-| 6. Live               | Wednesday 04.06 	| TBA   | Game launched! |
+| 6. Live               | Wednesday 04.06 	| 10.06 and 11.06 (Exam)   | Game launched! |
 
 **Assignment 2:**
 Write a reflection note about the course
@@ -137,7 +137,7 @@ You will submit one **final report** that should be organized according to the m
 3.	Prototype is an implementation of a playable game. The report should include a description of this prototype. What was the goal of the prototype and what did you learn from it? A short discussion of the current state of the game is also expected here.
 4.	Alpha is a feature complete implementation of the game. The report should include a description of this alpha version. What was the goal of the alpha version and what did you learn from it? A short discussion of the current state of the game is also expected here
 5.	Beta is a content complete version of the game that can be submitted for evaluation.
-6.	Live is the launched game. In the report you can combine the description for the Beta and Live two milestones in a single chapter. We also expect and evaluation of the complete game project is also expected here. It is also possible to discuss metrics of interest for later evaluation of the launched game here.
+6.	Live is the launched game. In the report you can combine the description for the Beta and Live two milestones in a single chapter. We also expect an evaluation of the complete game project here. It is also possible to discuss metrics of interest for later evaluation of the launched game here.
 
 You should **submit using Wiseflow** at the end of the course:
 1. Your report.
